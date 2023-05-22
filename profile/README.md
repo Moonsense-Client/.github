@@ -13,4 +13,4 @@ A upcoming free to use minecraft client for 1.8.9 to the newest versions. With f
 - [@MaxJ](https://github.com/maxjackson2)
 - [@Valkyrie](https://github.com/Valkyrie052)
 
-## Coming Soon
+<h3 align='center'> Coming Soon</h3>
