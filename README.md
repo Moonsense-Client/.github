@@ -8,8 +8,8 @@ A upcoming free to use minecraft client for 1.8.9 to the newest versions. With f
 - [@Kars1996](https://www.github.com/Kars1996)
 - [@MasterCoder](https://github.com/MasterCoder21)
 - [@Nitlix](https://github.com/Nitlix)
-- [@ItzPrism](https://github.com/ItzPrism)
 - [@MaxJ](https://github.com/maxjackson2)
-- [@Valkyrie](https://github.com/Valkyrie052)
+- [@Jake1801](https://github.com/Jake1801)
+- [@AlpineX0](https://github.com/AlpineX0)
 
 ## Coming Soon
